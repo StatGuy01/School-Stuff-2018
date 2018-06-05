@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../../../../Three Freinds/Three Freinds.cbp" />
+		<Project filename="../../../../Preprocessor Directives/Preprocessor Directives.cbp" />
+		<Project filename="../../../../Comments/Comments.cbp" />
+		<Project filename="../../../../TestProgram/TestProgram.cbp" />
+		<Project filename="../../../../Sales Tax/Sales Tax.cbp" />
+		<Project filename="../../../../Initals/Initals.cbp" />
+		<Project filename="../../../../Pet Name/Pet Name.cbp" />
+		<Project filename="../../../../Variable/Variable.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
