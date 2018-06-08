@@ -9,5 +9,11 @@
 		<Project filename="../../../../Initals/Initals.cbp" />
 		<Project filename="../../../../Pet Name/Pet Name.cbp" />
 		<Project filename="../../../../Variable/Variable.cbp" />
+		<Project filename="../../../../Variables/Variables.cbp" />
+		<Project filename="../../../../Printed Variables/Printed Variables.cbp" />
+		<Project filename="../../../../Table of team names/Table of team names.cbp" />
+		<Project filename="../../../../Calculating Payroll Data/Calculating Payroll Data.cbp" />
+		<Project filename="../../../../Possible Problems/Possible Problems.cbp" />
+		<Project filename="../../../../Printing Phone Book/Printing Phone Book.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
