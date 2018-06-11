@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../../../../Three Freinds/Three Freinds.cbp" />
+		<Project filename="../../../../Preprocessor Directives/Preprocessor Directives.cbp" />
+		<Project filename="../../../../Comments/Comments.cbp" />
+		<Project filename="../../../../TestProgram/TestProgram.cbp" />
+		<Project filename="../../../../Sales Tax/Sales Tax.cbp" />
+		<Project filename="../../../../Initals/Initals.cbp" />
+		<Project filename="../../../../Pet Name/Pet Name.cbp" />
+		<Project filename="../../../../Variable/Variable.cbp" />
+		<Project filename="../../../../Variables/Variables.cbp" />
+		<Project filename="../../../../Printed Variables/Printed Variables.cbp" />
+		<Project filename="../../../../Table of team names/Table of team names.cbp" />
+		<Project filename="../../../../Calculating Payroll Data/Calculating Payroll Data.cbp" />
+		<Project filename="../../../../Possible Problems/Possible Problems.cbp" />
+		<Project filename="../../../../Printing Phone Book/Printing Phone Book.cbp" />
+		<Project filename="../../../../Negative Variable/Negative Variable.cbp" />
+		<Project filename="../../../../Pay per week/Pay per week.cbp" />
+		<Project filename="../../../../School Average/School Average.cbp" />
+		<Project filename="../../../../Mixed data Type/Mixed data Type.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
