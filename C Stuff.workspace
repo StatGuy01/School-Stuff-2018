@@ -15,5 +15,9 @@
 		<Project filename="../../../../Calculating Payroll Data/Calculating Payroll Data.cbp" />
 		<Project filename="../../../../Possible Problems/Possible Problems.cbp" />
 		<Project filename="../../../../Printing Phone Book/Printing Phone Book.cbp" />
+		<Project filename="../../../../Negative Variable/Negative Variable.cbp" />
+		<Project filename="../../../../Pay per week/Pay per week.cbp" />
+		<Project filename="../../../../School Average/School Average.cbp" />
+		<Project filename="../../../../Mixed data Type/Mixed data Type.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
